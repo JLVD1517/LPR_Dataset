@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>00142.jpg</filename>
+	<path>C:\Users\LENOVO\darkflow\training\images\00142.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>573</width>
+		<height>395</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>licenseplate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>199</xmin>
+			<ymin>299</ymin>
+			<xmax>398</xmax>
+			<ymax>341</ymax>
+		</bndbox>
+	</object>
+</annotation>
